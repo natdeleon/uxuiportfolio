@@ -151,7 +151,7 @@ h5 {
 padding-bottom: 0.3rem;
 }
 
-a:hover , i:hover , b:hover , span , .flex-start {
+a:hover , b:hover , span , .flex-start {
   color: #2656FF;
   text-decoration: none;
   cursor: pointer;
